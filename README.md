@@ -3,11 +3,6 @@
 An example architecture used for managing product inventory which
 highlights the use of event collaboration with [RabbitMQ](https://www.rabbitmq.com/).
 
-## People Involved in the Assignment
-
-
-![gradle-build](https://github.com/jigisha620/FSE-RabbitMQ/actions/workflows/build.yml/badge.svg?event=push)
-
 ## History
 
 The milk problem first surfaced while working with a well-known grocery
