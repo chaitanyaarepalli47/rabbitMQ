@@ -4,9 +4,7 @@ An example architecture used for managing product inventory which
 highlights the use of event collaboration with [RabbitMQ](https://www.rabbitmq.com/).
 
 ## People Involved in the Assignment
-### Jigisha Patil
 
-Code compiles and Java Test pass
 
 ![gradle-build](https://github.com/jigisha620/FSE-RabbitMQ/actions/workflows/build.yml/badge.svg?event=push)
 
